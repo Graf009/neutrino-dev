@@ -24,7 +24,7 @@
     "@neutrinojs/loader-merge": "^8.2.0",
     "@neutrinojs/web": "^8.2.0",
     "css-loader": "^0.28.11",
-    "deepmerge": "^1.5.2",
+    "deepmerge": "^2.0.0",
     "eslint-plugin-react": "^7.7.0",
     "eslint-plugin-vue": "^4.5.0",
     "stylelint-processor-html": "^1.0.0",

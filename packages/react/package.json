@@ -30,7 +30,7 @@
     "@neutrinojs/compile-loader": "^8.2.0",
     "@neutrinojs/loader-merge": "^8.2.0",
     "@neutrinojs/web": "^8.2.0",
-    "deepmerge": "^1.5.2",
+    "deepmerge": "^2.0.0",
     "eslint-plugin-react": "^7.7.0",
     "react-hot-loader": "^3.1.3"
   },

@@ -37,7 +37,7 @@
     "@neutrinojs/clean": "^8.2.0",
     "@neutrinojs/compile-loader": "^8.2.0",
     "@neutrinojs/loader-merge": "^8.2.0",
-    "deepmerge": "^1.5.2",
+    "deepmerge": "^2.0.0",
     "webpack-node-externals": "^1.7.2",
     "worker-loader": "^1.1.1"
   },
